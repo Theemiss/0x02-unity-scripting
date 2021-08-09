@@ -145,3 +145,11 @@ Received Import Request.
 Start importing Assets/Prefabs/Coin.prefab using Guid(2ea9349e66d8e3a4cb129a34b087b893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be714566585e0aa4ff5839ec4c33113') in 0.086250 seconds 
   Import took 0.089149 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 132.412265 seconds.
+  path: Assets/Materials/trap.mat
+  artifactKey: Guid(9eef986f697c0ba428141d8ec7edfc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/trap.mat using Guid(9eef986f697c0ba428141d8ec7edfc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b632d83bbdafe91f6d02b0c5992baa') in 0.034735 seconds 
+  Import took 0.040458 seconds .
+
